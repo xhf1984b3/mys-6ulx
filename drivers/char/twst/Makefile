@@ -1,0 +1,1 @@
+obj-$(CONFIG_TWST_DI) += twst-di.o
